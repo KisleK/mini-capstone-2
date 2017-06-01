@@ -1,10 +1,11 @@
 $primary-color: green;
-
-
 h1 {
   background-color: $primary-color;
 }
-
 h2 {
   color: $primary-color;
+}
+body {
+  font-family: Garamond,Baskerville,"Baskerville Old Face","Hoefler Text","Times New Roman",serif;
+  background-image: url("tileable_wood.png");
 }
